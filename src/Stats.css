@@ -1,0 +1,82 @@
+.stats-ensemble {
+  display: flex;
+  flex-direction: column;
+  background-color: #4c7197;
+}
+
+.sidebar-options {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  place-content: center;
+  padding: 0 2em;
+}
+
+.stats-titre {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.stats-text {
+  margin: 1rem;
+}
+
+.stats-stitre {
+  font-size: 16px;
+  color: #eaeaea;
+  text-align: left;
+}
+
+.stats-select {
+  border-radius: 8px;
+  padding: 4px 0;
+  font-size: 16px;
+  font-weight: 800;
+  border: none;
+  font-family: Helvetica Neue, sans-serif, Arial;
+}
+
+.main-wrapper {
+  color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 1em;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.stats-img {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 52px;
+}
+
+.stats-img-album {
+  width: 4rem;
+  height: 4rem;
+}
+
+.stats-classement {
+  margin: 1rem;
+}
+
+.stats-separateur {
+  font-weight: lighter;
+  font-size: 16px;
+  color: #eaeaea;
+  margin: 0 1rem;
+}
+
+.stats-titre-artiste {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}

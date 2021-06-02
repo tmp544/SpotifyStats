@@ -1,0 +1,27 @@
+.sidebar-ensemble {
+  background-color: #4c7197;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: x-large;
+  color: white;
+  padding: 1em;
+  text-align: end;
+  place-content: space-between;
+}
+
+.sidebar-img {
+  width: 4rem;
+  border-radius: 2rem;
+}
+
+.sidebar-header-titre {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.sidebar-titre {
+  margin: 0;
+  font-weight: 800;
+}
